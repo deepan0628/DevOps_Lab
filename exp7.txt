@@ -6,7 +6,6 @@ gradle run
 gradle tasks
 gradle jar
 
-
 Sample File:
 // build.gradle
 plugins {
