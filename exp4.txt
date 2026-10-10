@@ -7,7 +7,6 @@ localhost ansible_connection=local
 ansible-inventory -i hosts.ini --list
 ansible-playbook -i hosts.ini setup.yml
 
-
 Sample File:
 ---
 - name: Simple Ansible Automation
