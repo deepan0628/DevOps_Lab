@@ -2,7 +2,6 @@ Commands:
 mkdir hello-world-devops
 cd hello-world-devops
 
-
 echo "# Hello World DevOps Project" > README.md
 echo "public class HelloWorld { public static void main(String[] args) { System.out.println("Hello World"); } }" > HelloWorld.java
 
