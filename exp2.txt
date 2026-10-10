@@ -3,6 +3,7 @@ java -version
 javac -version
 mvn -version
 
+
 mkdir MavenHello
 cd MavenHello
 mkdir -p src/main/java/com/example
