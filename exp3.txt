@@ -2,6 +2,7 @@ Commands:
 docker --version
 docker info
 
+
 docker pull hello-world
 docker images
 docker run hello-world
